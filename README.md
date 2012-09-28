@@ -22,9 +22,5 @@ For the initial repository, the only thing that I am doing is organizing the
 files for GitHub. I haven't actually checked to make sure that the example
 works or anything. This is just to get the project moved over.
 
-<img src="https://github.com/downloads/bennadel/CFHTTPSession.cfc/ben_apt_dimensions.gif" />
-
-Just testing image upload.
-
 
 [1]: http://www.bennadel.com
